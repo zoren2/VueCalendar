@@ -1,3 +1,5 @@
+/* Hard coded seed data in JSON format for testing */
+
 export const seedData = [
     {
         id: 1,
